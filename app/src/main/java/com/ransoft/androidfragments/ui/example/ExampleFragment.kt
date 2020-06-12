@@ -1,4 +1,4 @@
-package com.ransoft.androidfragments.example
+package com.ransoft.androidfragments.ui.example
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

@@ -1,4 +1,4 @@
-package com.ransoft.androidfragments.article
+package com.ransoft.androidfragments.ui.article
 
 import androidx.lifecycle.ViewModel
 
